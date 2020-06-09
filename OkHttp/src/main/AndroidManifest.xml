@@ -1,4 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.chenyingjie.okhttp">
 
+    <application>
+        <activity
+            android:name=".ui.RewardVideoActivity"
+            android:launchMode="singleTop" />
+    </application>
 </manifest>

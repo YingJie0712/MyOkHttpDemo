@@ -1,8 +1,7 @@
-package com.chenyingjie.okhttp;
+package com.chenyingjie.okhttp.http;
 
 import android.os.Handler;
 import android.os.Looper;
-import android.widget.TextView;
 
 import org.jetbrains.annotations.NotNull;
 

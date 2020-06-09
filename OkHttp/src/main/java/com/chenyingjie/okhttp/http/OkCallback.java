@@ -1,4 +1,4 @@
-package com.chenyingjie.okhttp;
+package com.chenyingjie.okhttp.http;
 
 /**
  * create by chenyingjie on 2020/6/8
